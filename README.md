@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/logo-dark.png" alt="revoked" width="120" />
+  <img src="/assets/logo-dark.png" alt="revoked" width="120" />
   <h1>revoked</h1>
   <p>Self-host freely. Build on top. Don't sell it.</p>
 
