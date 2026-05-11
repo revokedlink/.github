@@ -39,4 +39,4 @@ To spin up your own instance of the core API:
 ```bash
 git clone https://github.com/revokedlink/api
 cd api
-go run main.go
+go run main.go serve --http="0.0.0.0:7744"
