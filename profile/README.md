@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo-dark.png" alt="revoked.link" width="120" />
+  <img src="../assets/logo-dark.png" alt="revoked.link" width="120" />
   <h1>revoked.link</h1>
   <p>Self-host freely. Build on top. Don't sell it.</p>
 
@@ -7,7 +7,7 @@
   [![API Docs](https://img.shields.io/badge/docs-revoked.link%2Fdocs-green)](https://revokedlink.github.io/docs)
   [![Status: Experimental](https://img.shields.io/badge/status-experimental-yellow)](https://github.com/revokedlink/api)
 </div>
-
+ 
 ---
 
 > [!WARNING]
