@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="../assets/logo-dark.png" alt="revoked" width="120" />
-  <h1>revoked</h1>
+  <h1>revoked</h1> 
   <p>Self-host freely. Build on top. Don't sell it.</p>
 
   [![License: ELv2](https://img.shields.io/badge/License-Elastic_v2-blue.svg)](https://www.elastic.co/licensing/elastic-license)
